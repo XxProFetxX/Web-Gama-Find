@@ -1,0 +1,31 @@
+.container-Unforgettab {
+    width: 90%;
+    display: flex;
+    margin-left: 10%;
+}
+
+.container-Unforgettab #txt-1 {
+    font-family: "Segoe UI";
+    font-size: 180%;
+    width: 50%;
+    margin-left: 5%;
+    margin-top: 10%;
+    line-height: 100%;
+}
+
+.container-Unforgettab #txt-2 {
+    font-family: "Segoe UI";
+    font-size: 140%;
+    width: 75%;
+    margin-left: 8%;
+    color: #626262;
+    line-height: 100%;
+}
+
+.container-Unforgettab #family-icon {
+    margin-top: 5%;
+    margin-right: 15%;
+    width: 25%;
+    height: 500px;
+    box-shadow: -10px 10px 10px #b7b7b7;
+}
